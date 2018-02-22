@@ -1,4 +1,4 @@
-#ILSParallaxHeader
+ILSParallaxHeader
 =======================
 
 Custom UIView subclass header for UITableView with parallax effect on images. 
