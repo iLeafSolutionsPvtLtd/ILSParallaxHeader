@@ -4,7 +4,9 @@ ILSParallaxHeader
 Custom UIView subclass header for UITableView with parallax effect on images. 
 
 ## Preview
-<img src="./Asset/Screenshot.png?raw=false">
+
+![Demo](https://user-images.githubusercontent.com/32927921/36667454-e79ab6ea-1b13-11e8-928b-ef2f2f03b5a6.gif)
+
 
 ## Usage
 
